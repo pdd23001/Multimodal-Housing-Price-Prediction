@@ -17,15 +17,15 @@ This project predicts real estate prices in Southern California using the [SoCal
 
 1.  **Clone the repository**:
     ```bash
-    git clone <repository_url>
-    cd CSE_5819_Project
+    git clone https://github.com/pdd23001/Multimodal-Housing-Price-Prediction.git
+    cd Multimodal-Housing-Price-Prediction
     ```
 
 2.  **Create a virtual environment**:
     
     **Option A: Using venv (Standard Python)**
     ```bash
-    python -m venv venv
+    python3 -m venv venv
     source venv/bin/activate  # On Windows: venv\Scripts\activate
     ```
 
