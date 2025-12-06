@@ -1,6 +1,6 @@
-# House Price Prediction with Hybrid Neural Networks
+# Multi-modal Machine Learning for Real Estate Price Prediction
 
-Multi-modal Machine Learning for predicting house prices using both tabular property features and property images. The project implements and compares three modeling approaches: Tabular-Only, Image-Only (CNN), and a Hybrid Multimodal Network. Detailed information about the models can be found in the Project Report (house_price_prediction.pdf)
+ML model for predicting house prices using both tabular property features and property images. The project implements and compares three modeling approaches: Tabular-Only, Image-Only (CNN), and a Hybrid Multimodal Network. Detailed information about the models can be found in the Project Report (house_price_prediction.pdf)
 
 ## 🏠 Project Overview
 This project predicts real estate prices in Southern California using the [SoCal dataset](https://www.kaggle.com/datasets/ted8080/house-prices-and-images-socal). It demonstrates how combining visual data (house photos) with structured data (bedrooms, sqft, location) can improve predictive performance.
